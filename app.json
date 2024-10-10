@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "BizBuddyTest",
+    "slug": "bizbuddytest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/app-logo.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#eeeff4"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/app-logo.png",
+        "backgroundColor": "#eeeff4"
+      },
+      "permissions": [
+        "NOTIFICATIONS"
+      ],
+      "package": "com.moonknight6657.bizbuddytest"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4f42834b-42d9-4b23-b5b7-a72f4a3b5c43"
+      }
+    }
+  }
+}
