@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MohdAqdasAsim/BizBuddy">
-    <img src="/assets/images/app-logo.png" alt="Logo" width="80" height="80">
+    <img src="/assets/images/app-logo.png" alt="Logo" width="80" height="80" style="border-radius: 50%;">
   </a>
 
   <h3 align="center">BizBuddy</h3>
