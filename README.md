@@ -178,3 +178,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [TypeScript-url]: https://www.typescriptlang.org/
 [ReactRouter.com]: https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white
 [ReactRouter-url]: https://reactrouter.com/
+[Expo.io]: https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white
+[Expo-url]: https://expo.dev/
+[ReactNative.com]: https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[ReactNative-url]: https://reactnative.dev/
+[NativeWind-url]: https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white
+[NativeWind-url]: https://www.nativewind.dev/
